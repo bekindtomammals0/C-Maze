@@ -1,0 +1,2 @@
+# C-Maze
+Beginner game
